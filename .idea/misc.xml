@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/6.2.1.BorderPane/pom.xml" />
+        <option value="$PROJECT_DIR$/6.2.2.GridPane/pom.xml" />
+        <option value="$PROJECT_DIR$/6.2.3HBoxAndVBox/pom.xml" />
+        <option value="$PROJECT_DIR$/6.2.4.StackPane/pom.xml" />
+        <option value="$PROJECT_DIR$/AnchorPane/pom.xml" />
+        <option value="$PROJECT_DIR$/6.2.6.FlowPaneAndTilePane/pom.xml" />
+        <option value="$PROJECT_DIR$/6.2.7.NestingContainers/pom.xml" />
+        <option value="$PROJECT_DIR$/6.2.8.StyleWIthCss/pom.xml" />
+        <option value="$PROJECT_DIR$/6.3.1.Canvas/pom.xml" />
+        <option value="$PROJECT_DIR$/6.3.2.KeyBoardAndMouseEvent/pom.xml" />
+        <option value="$PROJECT_DIR$/MovingPlayer/pom.xml" />
+        <option value="$PROJECT_DIR$/6.3.4.UpdatingGui/pom.xml" />
+        <option value="$PROJECT_DIR$/6.4.GUIDesignTool/pom.xml" />
+        <option value="$PROJECT_DIR$/7.1.Prepare-db-and-connection-1/pom.xml" />
+        <option value="$PROJECT_DIR$/7.3Basics-of-object-Relational-mapping/pom.xml" />
+        <option value="$PROJECT_DIR$/7.4.Association-in-object-relational-mapping/pom.xml" />
+        <option value="$PROJECT_DIR$/7.1.Preparing_the_database_and_the_connection/pom.xml" />
+        <option value="$PROJECT_DIR$/7.2.Database_usage_via_JDBC_driver/pom.xml" />
+        <option value="$PROJECT_DIR$/7.3.Basics_of_object-relational_mapping/pom.xml" />
+        <option value="$PROJECT_DIR$/7.4.Association_in_object-relational_mapping/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/7.1.Prepare-db-and-connection-1/pom.xml" />
+        <option value="$PROJECT_DIR$/7.4.Association-in-object-relational-mapping/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="corretto-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

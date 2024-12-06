@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="6.2.6.FlowPaneAndTilePane" />
+        <module name="6.2.7.NestingContainers" />
+        <module name="7.4.Association_in_object-relational_mapping" />
+        <module name="6.3.4.UpdatingGui" />
+        <module name="7.3.Basics_of_object-relational_mapping" />
+        <module name="6.2.3HBoxAndVBox" />
+        <module name="6.3.2.KeyBoardAndMouseEvent" />
+        <module name="6.4.GUIDesignTool" />
+        <module name="6.2.2.GridPane" />
+        <module name="7.2.Database_usage_via_JDBC_driver" />
+        <module name="6.2.1.BorderPane" />
+        <module name="6.2.4.StackPane" />
+        <module name="6.2.8.StyleWIthCss" />
+        <module name="7.1.Preparing_the_database_and_the_connection" />
+        <module name="6.3.1.Canvas" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="6.2.5.AnchorPane" target="17" />
+      <module name="6.3.4.MovingPlayer" target="17" />
+      <module name="7.1.Prepare-db-and-connection-1" target="17" />
+      <module name="7.2.DB-usage-via-JDBC-driver" target="17" />
+      <module name="7.3.Basics-of-object-Relational-mapping" target="17" />
+      <module name="7.4.Association-in-object-relational-mapping" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

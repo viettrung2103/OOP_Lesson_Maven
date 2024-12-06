@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/6.2.1.BorderPane/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/6.2.1.BorderPane/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/6.2.2.GridPane/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/6.2.2.GridPane/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/6.2.3HBoxAndVBox/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/6.2.3HBoxAndVBox/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/6.2.4.StackPane/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/6.2.4.StackPane/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/6.2.5.AnchorPane/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/6.2.5.AnchorPane/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/6.2.6.FlowPaneAndTilePane/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/6.2.6.FlowPaneAndTilePane/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/6.2.7.NestingContainers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/6.2.7.NestingContainers/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/6.2.8.StyleWIthCss/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/6.2.8.StyleWIthCss/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/6.3.1.Canvas/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/6.3.1.Canvas/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/6.3.2.KeyBoardAndMouseEvent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/6.3.2.KeyBoardAndMouseEvent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/6.3.3.MovingPlayer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/6.3.3.MovingPlayer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/6.3.4.UpdatingGui/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/6.3.4.UpdatingGui/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/6.4.GUIDesignTool/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/6.4.GUIDesignTool/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/7.1.Prepare-db-and-connection-1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/7.1.Prepare-db-and-connection-1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/7.1.Preparing_the_database_and_the_connection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/7.1.Preparing_the_database_and_the_connection/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/7.2.DB-usage-via-JDBC-driver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/7.2.DB-usage-via-JDBC-driver/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/7.2.Database_usage_via_JDBC_driver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/7.2.Database_usage_via_JDBC_driver/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/7.3.Basics-of-object-Relational-mapping/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/7.3.Basics-of-object-Relational-mapping/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/7.3.Basics_of_object-relational_mapping/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/7.3.Basics_of_object-relational_mapping/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/7.4.Association-in-object-relational-mapping/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/7.4.Association-in-object-relational-mapping/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/7.4.Association_in_object-relational_mapping/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/7.4.Association_in_object-relational_mapping/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

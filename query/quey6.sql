@@ -1,0 +1,1 @@
+GRANT SELECT ON company.* TO 'appuser'@'139.112.64.8';
